@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.saravana.dsalgos.strings;
+package com.saravana.dsalgos.scaleracademy.strings;
 
 import java.util.Scanner;
 
